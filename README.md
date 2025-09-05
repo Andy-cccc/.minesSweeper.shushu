@@ -1,4 +1,4 @@
-# .minesSweeper.shushu
+# minesSweeper.shushu
 Small game about mines sweeper
 Website Link:
-.minesSweeper.shushu
+minesSweeper.shushu
